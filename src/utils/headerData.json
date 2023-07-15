@@ -1,0 +1,276 @@
+[
+    {
+        "name": "Home",
+        "link": "#",
+        "subHead": [
+            {
+                "name": "Home Posts Slider",
+                "link": "#",
+                "subHead": [
+                    {
+                        "name": "Posts Slider (Image Mode)",
+                        "link": "#"
+                    },
+                    {
+                        "name": "Posts Slider (Text Mode)",
+                         "link": "#"
+                    }
+                ]
+            },
+            {
+                "name": "Home Posts Carousel",
+                "link": "#",
+                "subHead": [
+                    {
+                        "name": "Posts Carousel (Image Mode)",
+                        "link": "#"
+                    },
+                    {
+                        "name": "Posts Carousel (Text Mode)",
+                         "link": "#"
+                    }
+                ]
+            },
+            {
+                "name": "Home Posts Category",
+                "link": "#",
+                "subHead": [
+                    {
+                        "name": "Posts Category (Image Mode)",
+                        "link": "#"
+                    },
+                    {
+                        "name": "Posts Category (Text Mode)",
+                         "link": "#"
+                    }
+                ]
+            },{
+                "name": "Home Posts Minimal",
+                "link": "#",
+                "subHead": [
+                    {
+                        "name": "Posts Minimal (Image Mode)",
+                        "link": "#"
+                    },
+                    {
+                        "name": "Posts Minimal (Text Mode)",
+                         "link": "#"
+                    }
+                ]
+            },{
+                "name": "Home Posts Sidebar",
+                "link": "#",
+                "subHead": [
+                    {
+                        "name": "Posts Sidebar (Image Mode)",
+                        "link": "#"
+                    },
+                    {
+                        "name": "Posts Sidebar (Text Mode)",
+                         "link": "#"
+                    }
+                ]
+            },{
+                "name": "Home Posts Masonry",
+                "link": "#",
+                "subHead": [
+                    {
+                        "name": "Posts Masonry (Image Mode)",
+                        "link": "#"
+                    },
+                    {
+                        "name": "Posts Masonry (Text Mode)",
+                         "link": "#"
+                    }
+                ]
+            },{
+                "name": "Home Posts Grid Sidebar",
+                "link": "#",
+                "subHead": [
+                    {
+                        "name": "Posts Grid Sidebar (Image Mode)",
+                        "link": "#"
+                    },
+                    {
+                        "name": "Posts Grid Sidebar (Text Mode)"
+                    }
+                ]
+            },
+            {
+                "name" : "Home Advertising",
+                "link" : "#"
+            },
+            {
+                "name" : "Advertise between posts",
+                "link" : "#"
+            },
+            {
+                "name" : "AMP Home",
+                "link" : "#"
+            }
+
+        ]
+    },
+    {
+        "name": "Header Styles",
+        "link": "#",
+        "subHead": [
+            {
+                "name": "Minimalist Style",
+                "link": "#",
+                "subHead": []
+            },
+            {
+                "name": "Classic Style",
+                "link": "#",
+                "subHead": []
+            },
+            {
+                "name": "Notice on Top",
+                "link": "#",
+                "subHead": []
+            },{
+                "name": "Advertising Area",
+                "link": "#",
+                "subHead": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Post Features",
+        "link": "#",
+        "subHead": [
+            {
+                "name": "Post Formats",
+                "link": "#",
+                "subHead": []
+            },
+            {
+                "name": "Fullwidth with Sidebar",
+                "link": "#",
+                "subHead": []
+            },
+            {
+                "name": "Fullwidth no Sidebar",
+                "link": "#",
+                "subHead": []
+            },{
+                "name": "Classic with Sidebar",
+                "link": "#",
+                "subHead": [
+                    
+                ]
+            },{
+                "name": "Classic no Sidebar",
+                "link": "#",
+                "subHead": [
+                    
+                ]
+            },{
+                "name": "Post Pagination",
+                "link": "#",
+                "subHead": [
+                    
+                ]
+            },{
+                "name": "AMP Article",
+                "link": "#",
+                "subHead": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "#Tag",
+        "link": "#",
+        "subHead": [
+            {
+                "name": "Lifestyle",
+                "link": "#",
+                "color" : "cyan",
+                "subHead": []
+            },
+            {
+                "name": "Music",
+                "link": "#",
+                "color" : "red",
+                "subHead": []
+            },
+            {
+                "name": "Fullwidth no Sidebar",
+                "link": "#",
+                "color" : "blue",
+                "subHead": []
+            },{
+                "name": "Technology",
+                "link": "#",
+                "color" : "skyblue",
+                "subHead": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Author",
+        "link": "#",
+        "subHead": [
+            
+        ]
+    },
+    {
+        "name": "Features",
+        "link": "#",
+        "subHead": [
+            {
+                "name": "Style Guide",
+                "link": "#",
+                "subHead": []
+            },
+            {
+                "name": "Gutenberg Blocks",
+                "link": "#",
+                "subHead": []
+            },
+            {
+                "name": "Buttons",
+                "link": "#",
+                "subHead": []
+            },{
+                "name": "Accordions and Tabs",
+                "link": "#",
+                "subHead": [
+                    
+                ]
+            },{
+                "name": "Columns",
+                "link": "#",
+                "subHead": [
+                    
+                ]
+            },{
+                "name": "Alert Messages",
+                "link": "#",
+                "subHead": [
+                    
+                ]
+            },{
+                "name": "404",
+                "link": "#",
+                "subHead": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Contact",
+        "link": "#",
+        "subHead": [
+            
+        ]
+    }
+]
